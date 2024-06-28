@@ -6,7 +6,7 @@ var a=prompt("Enter Your Name");
   	}
   	else
   	{
-  		alert("invalid details");
+  		alert("invalid details use small letter all.");
   		window.location.href="index.html";
   	}
   	
