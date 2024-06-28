@@ -1,6 +1,6 @@
-var a=prompt("Enter UserName");
- var b=prompt("Enter password");
-  	if(a== "tanjim" && b=="123")
+var a=prompt("Enter Your Name");
+ var b=prompt("Tanjim's Favourite color?");
+  	if(a== "hafsa" && b=="blue")
   	{
   	    window.location.href="start.html";
   	}
